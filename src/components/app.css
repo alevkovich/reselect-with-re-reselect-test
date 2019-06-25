@@ -1,0 +1,23 @@
+html, body{
+    max-width: 100%;
+}
+.app{
+    display: flex;
+}
+.list{
+    border: .5px solid;
+    margin: 10px 10px;
+    padding: 5px;
+}
+li{
+    list-style-type: none;
+}
+.zzz{
+    width: 200px;
+    border: 1px solid black;
+}
+.buttons{
+    margin: 10px 10px;
+    display: flex;
+    flex-direction: column;
+}
